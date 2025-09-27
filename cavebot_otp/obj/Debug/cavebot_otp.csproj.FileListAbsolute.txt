@@ -1,0 +1,9 @@
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\bin\Debug\cavebot_otp.exe.config
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\bin\Debug\cavebot_otp.exe
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\bin\Debug\cavebot_otp.pdb
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\obj\Debug\cavebot_otp.csproj.AssemblyReference.cache
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\obj\Debug\cavebot_otp.Properties.Resources.resources
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\obj\Debug\cavebot_otp.csproj.GenerateResource.cache
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\obj\Debug\cavebot_otp.csproj.CoreCompileInputs.cache
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\obj\Debug\cavebot_otp.exe
+C:\Users\byte\source\repos\cavebot_otp\cavebot_otp\obj\Debug\cavebot_otp.pdb
